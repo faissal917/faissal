@@ -1,0 +1,5 @@
+{
+  "name": "Gestion Stock Pro",
+  "description": "Une application professionnelle de gestion de stock avec assistance IA pour l'analyse d'inventaire et la rédaction de descriptions de produits.",
+  "requestFramePermissions": []
+}
